@@ -29,8 +29,6 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class PigEurekaApplication {
 
 	public static void main(String[] args) {
-		Test3.testx();
-		TestGit2.testx();
 		SpringApplication.run(PigEurekaApplication.class, args);
 	}
 }
