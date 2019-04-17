@@ -6,6 +6,8 @@ package com.github.pig.eureka;
  * @description：测试git
  * @version: 1.0$
  */
-
-public class TestGit {
+ class TestGit {
+     static void main(String[] args) {
+        Test3.testx();
+    }
 }

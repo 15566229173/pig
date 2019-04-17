@@ -7,5 +7,9 @@ package com.github.pig.eureka;
  * @version: 1.0$
  */
 
-public class Test3 {
+class Test3 {
+    static void testx() {
+        System.out.println(456);
+        System.out.println(123);
+    }
 }
